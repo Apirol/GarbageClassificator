@@ -1,7 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c660faa-5afa-4b67-81ca-b77537db9982" name="Default Changelist" comment="" />
+    <list default="true" id="1c660faa-5afa-4b67-81ca-b77537db9982" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_0_7872142.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_10_6419636.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_11_2278862.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_12_174927.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_13_7744318.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_1_6205884.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_2_7539766.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_3_4726045.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_4_8262592.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_5_8113309.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_6_6038962.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_7_4413018.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_8_4615382.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTest/_9_7250722.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_0_3390460.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_0_4097917.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_0_587444.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_0_833876.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_10_5394332.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_10_6796136.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_10_876110.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_10_9629050.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_11_1508344.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_11_2906952.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_11_3356756.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_11_9534999.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_12_1973255.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_12_2397577.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_12_684171.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_12_915875.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_13_2317042.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_13_2407004.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_13_3626124.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_13_5382994.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_14_3262231.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_14_66011.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_14_6839284.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_14_729012.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_15_4310867.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_15_4880968.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_15_7860135.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_15_8794913.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_16_4048.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_16_5092345.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_16_5412290.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_16_9488695.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_17_1202139.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_17_1948805.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_17_8996532.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_17_9895120.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_18_4722213.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_18_5030630.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_18_5295546.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_18_7275964.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_19_2999780.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_19_559383.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_19_7312976.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_19_8200390.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_1_2785152.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_1_2915885.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_1_7402395.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_1_9270143.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_20_1974535.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_20_3850160.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_20_7078755.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_20_7301397.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_21_134252.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_21_2420214.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_21_5893849.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_21_9954777.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_22_2559802.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_22_6145350.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_22_7872195.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_22_9107846.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_23_2586227.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_23_359447.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_23_6904648.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_23_8914999.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_24_4148426.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_24_4996389.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_24_5482184.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_24_6570902.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_25_1728985.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_25_2700466.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_25_8679447.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_25_9911271.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_26_165873.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_26_6209348.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_26_7492091.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_26_8021234.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_27_7012592.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_27_7592707.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_27_8841492.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_27_9152956.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_28_3210321.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_28_7023454.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_28_8505179.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_28_9530806.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_29_3913759.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_29_3953860.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_29_4595830.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_29_5899787.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_2_1443686.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_2_2092294.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_2_4291511.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_2_9315939.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_30_3983993.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_30_6064548.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_30_743273.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_30_9701362.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_31_1608273.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_31_6090560.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_31_734693.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_31_8045969.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_3_2278412.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_3_2953664.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_3_3084776.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_3_6869105.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_4_2576351.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_4_3077263.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_4_7541176.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_4_8319307.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_5_2231087.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_5_8418598.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_5_8712210.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_5_9876786.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_6_1451255.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_6_3014771.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_6_4531031.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_6_6423632.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_7_1655060.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_7_7178223.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_7_9192101.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_7_9537180.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_8_250662.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_8_2742400.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_8_4252661.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_8_9900317.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_9_224788.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_9_3263991.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_9_465148.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProcessedTrain/_9_8440940.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocessing.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +161,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1q4yisDKOCUXJ3dDkG6lxGFILvY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,8 +173,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BotProject" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -59,14 +211,32 @@
       <updated>1616353286856</updated>
       <workItem from="1616353308008" duration="2000" />
       <workItem from="1616504658112" duration="4478000" />
-      <workItem from="1616570138116" duration="10821000" />
+      <workItem from="1616570138116" duration="15992000" />
+      <workItem from="1616653722176" duration="3117000" />
+      <workItem from="1617613865451" duration="3616000" />
+      <workItem from="1619115727199" duration="2097000" />
+      <workItem from="1619178149516" duration="132000" />
+      <workItem from="1619201551070" duration="720000" />
+      <workItem from="1619608829259" duration="600000" />
+      <workItem from="1619764815787" duration="27151000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/GarbageClassificator$main.coverage" NAME="main Coverage Results" MODIFIED="1616582712925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/GarbageClassificator$main.coverage" NAME="main Coverage Results" MODIFIED="1619817528235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
